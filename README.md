@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>🚀 My Journey to Become a Machine Learning Engineer</h1>
+<h1>🚀 My Journey to Become Data Scientist </h1>
 <p>A step-by-step guide to my learning path and projects in the world of programming, AI, and data science.</p>
 
 <div class="section">
@@ -43,6 +43,7 @@
             <ul>
                 <li><a href="https://github.com/yashgoyal-16/Attendance-system-using-face-recognition">Attendance System using Face Recognition</a></li>
                 <li><a href="https://github.com/yashgoyal-16/Ai-Assistant-">Jarvis AI Assistant</a></li>
+                <li><strong>Certification</strong>: <a href="[https://www.linkedin.com/posts/yash-goyal-074a8625a_sql-datascience-continuouslearning-activity-7232402090864607234-zokH?utm_source=share&utm_medium=member_desktop](https://www.hackerrank.com/certificates/033e2916b2c1)">Python hackerrank Certification</a></li>
             </ul>
         </li>
     </ul>
@@ -81,7 +82,9 @@
 
 <h3>Recap of Key Learnings:</h3>
     <ul>
-        <li><strong>Numpy & Pandas</strong>: <a href="https://youtube.com/playlist?list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD">CampusX Numpy & Pandas</a></li>
+        <li><strong>Numpy & Pandas</strong></li>
+        <li><strong>Data analysis</strong>: <a href="https://youtube.com/playlist?list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD">CampusX Numpy & Pandas</a></li>
+        <li><strong>Explotery Data analysis</strong> Understanding your data, Univariate Analysis, Bivariate and Multivariate Analysis, Pandas Profiling from 100 days of ml playlist </li>
         <li><strong>Matplotlib</strong>:
             <ul>
                 <li><a href="https://www.youtube.com/live/XaKn_cKFlSY?si=SivNSfRGVSm_AuCI">Matplotlib Basics</a></li>
@@ -95,7 +98,7 @@
             </ul>
         </li>
         <li><strong>Descriptive Statistics</strong>: <a href="https://youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1&si=pA-2kxAm6IDPhxpT">Descriptive Stats Playlist</a></li>
-        <li><strong>Kaggle Practice</strong>: <a href="https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python">Comprehensive Data Exploration with Python</a></li>
+        <li><strong>fun Kaggle notebook</strong>: <a href="https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python">Comprehensive Data Exploration with Python</a></li>
     </ul>
 <h3>Project:</h3>
     <ul>
