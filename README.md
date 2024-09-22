@@ -43,7 +43,7 @@
             <ul>
                 <li><a href="https://github.com/yashgoyal-16/Attendance-system-using-face-recognition">Attendance System using Face Recognition</a></li>
                 <li><a href="https://github.com/yashgoyal-16/Ai-Assistant-">Jarvis AI Assistant</a></li>
-                <li><strong>Certification</strong>: <a href="[https://www.linkedin.com/posts/yash-goyal-074a8625a_sql-datascience-continuouslearning-activity-7232402090864607234-zokH?utm_source=share&utm_medium=member_desktop](https://www.hackerrank.com/certificates/033e2916b2c1)">Python hackerrank Certification</a></li>
+                <li><strong>Certification</strong>: <a href="https://www.hackerrank.com/certificates/033e2916b2c1">Python hackerrank Certification</a></li>
             </ul>
         </li>
     </ul>
