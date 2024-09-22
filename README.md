@@ -82,8 +82,8 @@
 
 <h3>Recap of Key Learnings:</h3>
     <ul>
-        <li><strong>Numpy & Pandas</strong></li>
-        <li><strong>Data analysis</strong>: <a href="https://youtube.com/playlist?list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD">CampusX Numpy & Pandas</a></li>
+        <li><strong>Numpy & Pandas</strong>: CampusX - Numpy & Pandas</li>
+        <li><strong>Data analysis</strong>: <a href="https://youtube.com/playlist?list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD">Data Analysis</a></li>
         <li><strong>Explotery Data analysis</strong> Understanding your data, Univariate Analysis, Bivariate and Multivariate Analysis, Pandas Profiling from 100 days of ml playlist </li>
         <li><strong>Matplotlib</strong>:
             <ul>
