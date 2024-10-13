@@ -48,17 +48,18 @@ A step-by-step guide to my learning path and projects in the world of programmin
 - **Seaborn**:
   - [Seaborn Session 1](https://www.youtube.com/live/DWVLRhnuGqI?si=XTXv89R7km6aS9XU)
   - [Seaborn Session 2](https://www.youtube.com/live/kLWeKeqc9Ms?si=Us3Hklm9N5p-9k0-)
-- **Descriptive Statistics**:
+
+### Descriptive Statistics**:
   - [1. Descriptive Stats Playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1&si=pA-2kxAm6IDPhxpT)
   - [2 resource Session A](https://www.youtube.com/live/Uv3Blie7F3g?si=yh01idtZYO2RalHc)
   - [2 resource B](https://www.youtube.com/live/1ndVC500-EU?si=bunqkTzXofAojTBK)
 - **Explored diffrent notebook here is one Fun Kaggle Notebook**: [Comprehensive Data Exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
-- **Descriptive Stats Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1aOZtecqHxY01azUlE8wJF3_eUzxIx28k/view?usp=drive_link)
+- **Descriptive Stats Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1aOZtecqHxY01azUlE8wJF3_eUzxIx28k/view?usp=sharing)
 
 ### Project:
 - **WhatsApp Chat Analyzer**: [Check it out on GitHub](https://github.com/yashgoyal-16/whatsapp-chat-anylizer)
 
-## 8. Machine Learning Basics (Est. Time: 1 Week)
+## 8. Machine Learning Basics
 - **Resources**:
   1. [What is Machine Learning?](https://www.youtube.com/watch?v=ZftI2fEz0Fw)
   2. [AI vs ML vs DL](https://www.youtube.com/watch?v=1v3_AQ26jZ0)
@@ -76,7 +77,7 @@ A step-by-step guide to my learning path and projects in the world of programmin
   14. [Working with JSON and SQL Data](https://www.youtube.com/watch?v=fFwRC-fapIU)
   15. [Building an End-to-End ML Project](https://www.youtube.com/watch?v=dr7z7a_8lQw)
 
-- **Machine Learning Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1Vvb96D3UDPlT7DDzsjDmNX5YMdqTwBuH/view?usp=sharing)
+- **Machine Learning theory Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1Vvb96D3UDPlT7DDzsjDmNX5YMdqTwBuH/view?usp=sharing)
 
 ## 9. Advanced Statistics
 - **Resources**: prefered third rescource i get knowledge in depth for me
