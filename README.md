@@ -97,13 +97,38 @@
                 <li><a href="https://www.youtube.com/live/kLWeKeqc9Ms?si=Us3Hklm9N5p-9k0-">Seaborn Session 2</a></li>
             </ul>
         </li>
-        <li><strong>Descriptive Statistics</strong>: <a href="https://youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1&si=pA-2kxAm6IDPhxpT">Descriptive Stats Playlist</a></li>
+        <strong>Descriptive Statistics</strong>
+        <li>:<a href="https://youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1&si=pA-2kxAm6IDPhxpT">1. Resource -> Descriptive Stats Playlist</a></li>
+        <li>:<a href="https://www.youtube.com/live/Uv3Blie7F3g?si=yh01idtZYO2RalHc">2. Resource Descriptive Stats a.> </a></li>
+        <li>:<a href="https://www.youtube.com/live/1ndVC500-EU?si=bunqkTzXofAojTBK">2. Resource Descriptive Stats b.> </a></li>
         <li><strong>fun Kaggle notebook</strong>: <a href="https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python">Comprehensive Data Exploration with Python</a></li>
+        <li><strong></strong>: <a href="https://drive.google.com/file/d/1Vvb96D3UDPlT7DDzsjDmNX5YMdqTwBuH/view?usp=sharing">Descriptive Stats MY handwritten notes</a></li>
     </ul>
 <h3>Project:</h3>
     <ul>
         <li><strong>WhatsApp Chat Analyzer</strong>: <a href="https://github.com/yashgoyal-16/whatsapp-chat-anylizer">Check it out on GitHub</a></li>
-    </ul>
+    </ul>    
+</div>
+<div>
+    8. #### Learn Machine Learning Basics (Est. time 1 Week)
+        1. What is Machine Learning? https://www.youtube.com/watch?v=ZftI2fEz0Fw
+        2. AI vs ML vs DL https://www.youtube.com/watch?v=1v3_AQ26jZ0
+        3. Types of Machine Learning - https://www.youtube.com/watch?v=81ymPYEtFOw
+        4. Batch Machine Learning - https://www.youtube.com/watch?v=nPrhFxEuTYU
+        5. Online Machine Learning - https://www.youtube.com/watch?v=3oOipgCbLIk
+        6. Instance based vs Model based learning - https://www.youtube.com/watch?v=ntAOq1ioTKo
+        7. Challenges in Machine Learning - https://www.youtube.com/watch?v=WGUNAJki2S4
+        8. Applications of Machine Learning - https://www.youtube.com/watch?v=UZio8TcTMrI
+        9. Machine Learning Development Lifecycle - https://www.youtube.com/watch?v=iDbhQGz_rEo
+        10. Data Engineer V Data Analyst V Data Scientist V ML Engineer - https://www.youtube.com/watch?v=93rKZs0MkgU
+        11. How to frame a Machine Learning problem? - https://www.youtube.com/watch?v=A9SezQlvakw
+        12. Installing and using software for data science - https://www.youtube.com/watch?v=82P5N2m41jE
+        13. How to work with CSV files? - https://www.youtube.com/watch?v=a_XrmKlaGTs
+        14. Working with JSON and SQL data - https://www.youtube.com/watch?v=fFwRC-fapIU
+        15. Building an End to End Machine Learning Project - https://www.youtube.com/watch?v=dr7z7a_8lQw
+        <li><strong></strong>: <a href="https://drive.google.com/file/d/1Vvb96D3UDPlT7DDzsjDmNX5YMdqTwBuH/view?usp=sharing">Theory of ML MY handwritten notes</a></li>
+        
+
 </div>
 
 </body>
