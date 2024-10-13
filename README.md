@@ -49,7 +49,7 @@ A step-by-step guide to my learning path and projects in the world of programmin
   - [Seaborn Session 1](https://www.youtube.com/live/DWVLRhnuGqI?si=XTXv89R7km6aS9XU)
   - [Seaborn Session 2](https://www.youtube.com/live/kLWeKeqc9Ms?si=Us3Hklm9N5p-9k0-)
 
-### Descriptive Statistics**:
+### Descriptive Statistics:
   - [1. Descriptive Stats Playlist](https://youtube.com/playlist?list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1&si=pA-2kxAm6IDPhxpT)
   - [2 resource Session A](https://www.youtube.com/live/Uv3Blie7F3g?si=yh01idtZYO2RalHc)
   - [2 resource B](https://www.youtube.com/live/1ndVC500-EU?si=bunqkTzXofAojTBK)
@@ -83,9 +83,11 @@ A step-by-step guide to my learning path and projects in the world of programmin
 - **Resources**: prefered third rescource i get knowledge in depth for me
   1. [Statistics Playlist](https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g)
   2. [Krish Naik Videos](https://youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&si=nqJ9nXmVL95rFctr) 
-  3. [CampusX Stats Playlist 4th to 10th video only](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=WHO6HJyNL2gBI3Xx) 4th to 6th video only
+  3. [CampusX Stats Playlist 4th to 10th video only](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=WHO6HJyNL2gBI3Xx)
+  4. Chi square test and anova test from krish naik
+  5.  
 - **Advanced Stats Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1Vvb96D3UDPlT7DDzsjDmNX5YMdqTwBuH/view?usp=sharing)
-
+ 
 ## 9. Participated in first hackathone 
 - **Here is linkdin post where i shared my experiance **: linkdin post
 - 
