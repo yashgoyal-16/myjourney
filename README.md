@@ -85,7 +85,7 @@ A step-by-step guide to my learning path and projects in the world of programmin
   2. [Krish Naik Videos](https://youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&si=nqJ9nXmVL95rFctr) 
   3. [CampusX Stats Playlist 4th to 10th video only](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=WHO6HJyNL2gBI3Xx) + for some concepts for visualtion followed statquest videos
   4. Chi square test and anova test from membership videos of campusx
-- **CampusX Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1qWrIsWgSUtllrlYvXOx6Y9OLzKj2NawO/view)
+- **CampusX Notes**: [Notes](https://drive.google.com/file/d/1qWrIsWgSUtllrlYvXOx6Y9OLzKj2NawO/view)
 - **Advanced Stats Notes (PDF CDF Types of distibution theoram**: [My Handwritten Notes](https://drive.google.com/file/d/1BqpF79hyq1HlZvWa0Ch3rhFcJRcOHXPZ/view?usp=drivesdk)
 - **Hypothesis Tests Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1Btj-gYviINx_LQXxFLBR-zFqTmcj7mL8/view?usp=drivesdk)
  
