@@ -83,11 +83,11 @@ A step-by-step guide to my learning path and projects in the world of programmin
 - **Resources**: prefered third rescource i get knowledge in depth for me
   1. [Statistics Playlist](https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g)
   2. [Krish Naik Videos](https://youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ&si=nqJ9nXmVL95rFctr) 
-  3. [CampusX Stats Playlist 4th to 10th video only](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=WHO6HJyNL2gBI3Xx)
-  4. Chi square test and anova test from krish naik
-  5.  
-- **Advanced Stats Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1Vvb96D3UDPlT7DDzsjDmNX5YMdqTwBuH/view?usp=sharing)
+  3. [CampusX Stats Playlist 4th to 10th video only](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=WHO6HJyNL2gBI3Xx) + for some concepts for visualtion followed statquest videos
+  4. Chi square test and anova test from membership videos of campusx
+- **CampusX Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1qWrIsWgSUtllrlYvXOx6Y9OLzKj2NawO/view)
+- **Advanced Stats Notes (PDF CDF Types of distibution theoram**: [My Handwritten Notes](https://drive.google.com/file/d/1BqpF79hyq1HlZvWa0Ch3rhFcJRcOHXPZ/view?usp=drivesdk)
+- **Hypothesis Tests Notes**: [My Handwritten Notes](https://drive.google.com/file/d/1Btj-gYviINx_LQXxFLBR-zFqTmcj7mL8/view?usp=drivesdk)
  
-## 9. Participated in first hackathone 
-- **Here is linkdin post where i shared my experiance **: linkdin post
-- 
+## 10. Participated in first hackathone 
+- **Here is linkdin post where i shared my experiance **: [linkdin post](https://www.linkedin.com/posts/yash-goyal-074a8625a_hackathon-machinelearning-chatbot-activity-7254009143915630592-IUKd?utm_source=share&utm_medium=member_desktop)
