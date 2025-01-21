@@ -91,3 +91,33 @@ A step-by-step guide to my learning path and projects in the world of programmin
  
 ## 10. Participated in first hackathone 
 - **Here is linkdin post where i shared my experiance **: [linkdin post](https://www.linkedin.com/posts/yash-goyal-074a8625a_hackathon-machinelearning-chatbot-activity-7254009143915630592-IUKd?utm_source=share&utm_medium=member_desktop)
+
+### 🎲 Probability:
+I mastered concepts such as:
+- **Conditional probability**
+- **Independent events**
+- **Bayes' theorem**
+- **Uniform, Binomial, Bernoulli, and Poisson distributions**
+
+**Resources:**
+- [CampusX Playlist (Videos 13 and 14)](https://lnkd.in/gG4NVn6q)
+- some 3Blue1Brown videos 
+
+---
+
+### 📐 Linear Algebra:
+From tabular data to Eigenvectors and Eigenvalues, I explored:
+- **Vectors and matrices**
+- **Matrix multiplication** and **dot product**
+- **Equation of a line in N dimensions**
+
+**Resources:**
+- [CampusX Membership Videos](https://lnkd.in/gG4NVn6q)
+- [This incredible playlist](https://lnkd.in/gdCKHUQy)
+
+---
+
+### 📈 Differential Calculus:
+While I haven’t gone into depth yet, **CampusX membership videos** have given me a strong foundation to build upon. also some other 
+
+---
